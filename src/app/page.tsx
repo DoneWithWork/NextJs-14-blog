@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+//home
 export default function Home() {
   return (
     <main className="text-center pt-32 px-5">
